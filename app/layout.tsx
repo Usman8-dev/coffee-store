@@ -17,7 +17,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Coffee Store",
-  description: "Coffee Store App",
+  description: "Order premium, ethically sourced coffee beans. Small-batch roasted for peak flavor.",
 };
 
 export default function RootLayout({
