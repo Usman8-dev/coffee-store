@@ -38,6 +38,7 @@ export default function Banner() {
           View Store Nearby
         </button>
 
+
       </div>
     </section>
   );
